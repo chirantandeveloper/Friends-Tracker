@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1039004078649",
+    "firebase_url": "https://friends-tracker-e8dbc.firebaseio.com",
+    "project_id": "friends-tracker-e8dbc",
+    "storage_bucket": "friends-tracker-e8dbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039004078649:android:795a543f2053ee6eac73e8",
+        "android_client_info": {
+          "package_name": "com.chirantan.nativeapp.friendstracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039004078649-nli8pqhkuis82v27jm1hu9ppdlvvltad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chirantan.nativeapp.friendstracker",
+            "certificate_hash": "addab317c1e651d22a4705084d5b556be014630a"
+          }
+        },
+        {
+          "client_id": "1039004078649-p8mjmihh983uprkkcnu4mtftu8mf9eir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2jTm-E9pAeQkE3WUBBUlaWMxxSIwaHuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039004078649-p8mjmihh983uprkkcnu4mtftu8mf9eir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
